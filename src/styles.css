@@ -1,0 +1,13 @@
+.App {
+     font-family: sans-serif;
+     text-align: center;
+     display: flex;
+     align-items: center;
+     flex-direction: column;
+   }
+   .input-div {
+     display: flex;
+     flex-direction: row;
+     justify-content: center;
+   }
+   
